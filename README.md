@@ -9,9 +9,13 @@ Feel free to use this repository as your own Discord bot, it's made for that, ev
 Examples: 
 
 ![Example](https://imgur.com/nzKz0qI.png)
+
 ![Example](https://imgur.com/COe6oGb.png)
+
 ![Example](https://imgur.com/UpWz2KJ.png)
+
 ![Example](https://imgur.com/ILeaP0q.png)
+
 ![Example](https://imgur.com/4U5xxXC.png)
 
 
