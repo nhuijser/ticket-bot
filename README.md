@@ -4,7 +4,16 @@
 
 I made this "template"/discord bot to learn more about DiscordJS v13 & Modals.
 
-Feel free to use this repository as your own Discord bot, it's made for that.
+Feel free to use this repository as your own Discord bot, it's made for that, everything is configurable in the `config`
+
+Examples: 
+
+![Example](https://imgur.com/nzKz0qI.png)
+![Example](https://imgur.com/COe6oGb.png)
+![Example](https://imgur.com/UpWz2KJ.png)
+![Example](https://imgur.com/ILeaP0q.png)
+![Example](https://imgur.com/4U5xxXC.png)
+
 
 ## Table of Contents
 
