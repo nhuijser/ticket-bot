@@ -1,0 +1,42 @@
+{
+  "token": "",
+
+  "status": {
+    "text": "ticket bots",
+    "type": "COMPETING" 
+  },
+
+  "self": {
+    "clientID": "",
+    "guildID": ""
+  },
+
+  "tickets": {
+    "supportCategoryID": "",
+    "supportRoleID": "",
+    "ticketLogsChannelID": ""
+  },
+
+  "popUp": {
+    "title": "This is config.popUp.title",
+    "label": "This is config.popUp.label"
+  },
+
+  "embeds": {
+      "color": "GREEN",
+      "title": "🎟 Support Tickets",
+      "description": "This is `config.embeds.description`",
+      "footer": "Ticket Bot"
+  },
+
+  "transcripts": {
+    "descriptionMessage" : "This is `config.transcripts.descriptionMessage`"
+  },
+
+  "button": {
+    "name": "Support Button",
+    "emoji": "🎟",
+    "style": "PRIMARY"
+  }
+  
+}
